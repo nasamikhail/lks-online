@@ -1,0 +1,54 @@
+CI version 2.2.1
+
+DEBUG THESE MUDDAFUCKAS PLEASE!!!
+
+/////////////////////////////////////////////////////////////////////
+DONE LIST!!
+/////////////////////////////////////////////////////////////////////
+*javascript show question
+*javascript show validation
+*javascript show data table
+*javascript tinymce textarea
+*login student jika status aktif
+*password matched validation pages
+*upload gambar di form soal (edit)
+*show gambar di student lks
+*all header centered
+*start time lks
+*show table, jika kosong, maka echo "tidak ada data" (pake isset)
+*input record answer (js)
+*page & function to show result student & history
+*foreign key di database (jangan lupa)!!
+*ajax delete record (show alert)
+*manage suject category page admin/superadmin
+*edit subject level drop down
+*delete subject ga bisa
+*javascript chain data downtable di add LKS & edit LKS
+*jumlah soal di start_lks (student controller)
+*penghitungan nilai LKS  (divide by zero) -> karna ga ketemu totalquestion aja
+*confirm dashboard and confirm logout ga jalan
+*penghitungan nilai LKS (selesai maupun ga selesai)
+*view uploaded img on question form (edit)
+*upload gambar di form soal (create)
+*managequestiontable galo ada soal bergambar pasti berantakan
+*random bank soal (40 of >=50)
+*durasi hasil pengerjaan siswa salah
+*show limited number of question on takelks page & lksresult
+*algoritma hitung nilai yang baru (40 dari 50 soal)
+*bootstrap plugin pada page siswa
+/////////////////////////////////////////////////////////////////////
+NOT DONE LIST!!
+/////////////////////////////////////////////////////////////////////
+*base url pasti logout session
+
+*update profil siswa - harus logout dulu
+*password_hash() & passsword_verify()
+
+*effect button superadmin ??lupa ini apaan
+*session expire problem
+////////////////////////////////////////////////////////////////////
+OPTIONAL:
+
+////////////////////////////////////////////////////////////////////
+
+///////////////////////////////////////////////////////////////////
